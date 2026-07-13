@@ -1,0 +1,51 @@
+{
+  "id": "buried-chapter-house-of-the-assassin",
+  "title": "Buried Chapter House of the Assassin",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>A dead village. A guild of thieves. An assassin who paid too high a price for power. Beneath a forgotten frontier village lies a secret chapter house. Once a wizard's alchemical laboratory, now home to a guild of ettercap thieves. Their leader, the Iron Spider, has sacrificed his humanity for power he now sells to the highest bidder. </p><p>• An OSR-styled adventure location, organized for use at the table</p><p>• Context for quick integration into your game</p><p>• Complete area key with random encounters, stat blocks, traps, and</p><p>treasures</p><p>• Alchemical reaction table for experimentation</p><p>• Hand-drawn custom maps and art</p><p>Goof and Grump, LLC.</p><p></p>",
+  "authors": [
+    {
+      "name": "Alexander Tzakis",
+      "email": "goof@goofandgrump.com",
+      "url": "goofandgrump.com",
+      "discord": "Glyph0s#3575",
+      "flags": {}
+    },
+    {
+      "name": "James Ekdahl",
+      "email": "grump@goofandgrump.com",
+      "url": "goofandgrump.com",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "bchota-gg03",
+      "label": "Buried Chapter House of the Assassin",
+      "path": "packs/bchota-gg03",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "shadowdark",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "shadowdark",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
