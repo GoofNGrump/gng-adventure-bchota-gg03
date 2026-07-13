@@ -47,5 +47,8 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "url": "https://github.com/GoofNGrump/gng-adventure-bchota-gg03/releases/tag/gng-adventure",
+  "manifest": "https://raw.githubusercontent.com/GoofNGrump/gng-adventure-bchota-gg03/main/module.json",
+  "download": "https://github.com/GoofNGrump/gng-adventure-bchota-gg03/releases/download/tag/gng-adventure/buried-chapter-house-of-the-assassin.zip "
 }
