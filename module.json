@@ -1,12 +1,12 @@
 {
   "id": "buried-chapter-house-of-the-assassin",
   "title": "Buried Chapter House of the Assassin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
-  "description": "<p>A dead village. A guild of thieves. An assassin who paid too high a price for power. Beneath a forgotten frontier village lies a secret chapter house. Once a wizard's alchemical laboratory, now home to a guild of ettercap thieves. Their leader, the Iron Spider, has sacrificed his humanity for power he now sells to the highest bidder. </p><p>• An OSR-styled adventure location, organized for use at the table</p><p>• Context for quick integration into your game</p><p>• Complete area key with random encounters, stat blocks, traps, and</p><p>treasures</p><p>• Alchemical reaction table for experimentation</p><p>• Hand-drawn custom maps and art</p><p>Goof and Grump, LLC.</p><p></p>",
+  "description": "<p>A dead village. A guild of thieves. An assassin who paid too high a price for power. Beneath a forgotten frontier village lies a secret chapter house. Once a wizard's alchemical laboratory, now home to a guild of ettercap thieves. Their leader, the Iron Spider, has sacrificed his humanity for power he now sells to the highest bidder.</p><p>• An OSR-styled adventure location, organized for use at the table</p><p>• Context for quick integration into your game</p><p>• Complete area key with random encounters, stat blocks, traps, and</p><p>treasures</p><p>• Alchemical reaction table for experimentation</p><p>• Hand-drawn custom maps and art</p><p>Goof and Grump, LLC.</p><p></p>",
   "authors": [
     {
       "name": "Alexander Tzakis",
@@ -31,12 +31,11 @@
       "label": "Buried Chapter House of the Assassin",
       "path": "packs/bchota-gg03",
       "type": "Adventure",
+      "system": "shadowdark",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "shadowdark",
-      "flags": {}
+      }
     }
   ],
   "relationships": {
@@ -48,7 +47,7 @@
       }
     ]
   },
-  "url": "https://github.com/GoofNGrump/gng-adventure-bchota-gg03/releases/tag/gng-adventure",
+  "url": "https://github.com/GoofNGrump/gng-adventure-bchota-gg03",
   "manifest": "https://raw.githubusercontent.com/GoofNGrump/gng-adventure-bchota-gg03/main/module.json",
   "download": "https://github.com/GoofNGrump/gng-adventure-bchota-gg03/releases/download/gng-adventure/buried-chapter-house-of-the-assassin.zip"
 }
